@@ -57,3 +57,4 @@ clang++ -std=c++17 -o todoapp CPPCLITODO.cpp
 3.  Follow the on-screen menu prompts
 
 ## Screenshot
+![Screenshot of TODO CLI App](screenshot.png)
